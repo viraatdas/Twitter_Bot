@@ -1,0 +1,3 @@
+Got OAuth token: I7BvOwAAAAABAWVIAAABbc3J5_g
+Please go here and authorize: https://api.twitter.com/oauth/authorize?oauth_token=I7BvOwAAAAABAWVIAAABbc3J5_g
+Paste the PIN here: 
